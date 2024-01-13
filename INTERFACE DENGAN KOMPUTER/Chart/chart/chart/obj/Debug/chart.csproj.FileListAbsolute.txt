@@ -1,0 +1,10 @@
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\bin\Debug\chart.exe.config
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\bin\Debug\chart.exe
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\bin\Debug\chart.pdb
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\obj\Debug\chart.csproj.AssemblyReference.cache
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\obj\Debug\chart.Form1.resources
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\obj\Debug\chart.Properties.Resources.resources
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\obj\Debug\chart.csproj.GenerateResource.cache
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\obj\Debug\chart.csproj.CoreCompileInputs.cache
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\obj\Debug\chart.exe
+D:\KOSIM\UNLA\INTERFACE DENGAN KOMPUTER\Chart\chart\chart\obj\Debug\chart.pdb

@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:5792AB0D
+NODE:I LEVEL:0 LINE:24 "c:\cvavreval\inc\mega168p.h"
+NODE:I LEVEL:0 LINE:25 "c:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:30 "c:\cvavreval\inc\stdio.h"
+NODE:F LEVEL:0 LINE:32 "main(void)"

@@ -1,0 +1,22 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+alphabetU                                                                         0x00051      8
+alphabetV                                                                         0x00059      5
+alphabetW                                                                         0x0005E     12
+alphabetX                                                                         0x0006A      8
+alphabetY                                                                         0x00072     10
+alphabetZ                                                                         0x0007C     25
+main                                                                              0x00095     86

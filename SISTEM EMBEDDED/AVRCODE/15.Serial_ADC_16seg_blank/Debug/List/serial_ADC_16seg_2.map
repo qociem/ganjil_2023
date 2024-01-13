@@ -1,0 +1,43 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+count                                                                             R3,R4        2
+vin                                                                               R5,R6        2
+vin1                                                                              R7,R8        2
+vin2                                                                              R9,R10       2
+vin3                                                                              R11,R12      2
+vin4                                                                              R13,R14      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+num0                                                                              0x00079      5
+num1                                                                              0x0007E     12
+num2                                                                              0x0008A      8
+num3                                                                              0x00092      8
+num4                                                                              0x0009A      6
+num5                                                                              0x000A0      6
+num6                                                                              0x000A6      8
+num7                                                                              0x000AE     18
+num8                                                                              0x000C0      7
+num9                                                                              0x000C7      5
+numblank                                                                          0x000CC     23
+alphabetG                                                                         0x000E3     11
+alphabetK                                                                         0x000EE     22
+read_adc                                                                          0x00104     27
+alpha                                                                             0x0011F     70
+main                                                                              0x00165    205
+putchar                                                                           0x00232     10
+put_usart_G100                                                                    0x0023C     14
+_print_G100                                                                       0x0024A    296
+printf                                                                            0x00372     39
+strlen                                                                            0x00399     12
+strlenf                                                                           0x003A5     13
